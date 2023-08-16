@@ -1,3 +1,3 @@
 # turtle
-[dictionary](words.md)
-[phrase](phrase)
+- [dictionary](words.md)
+- [phrase](phrase)
