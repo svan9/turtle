@@ -1,3 +1,2 @@
 # turtle
-[dictionary]()
-{}(words.md)
+[dictionary](words.md)
